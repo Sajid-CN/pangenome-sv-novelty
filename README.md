@@ -1,6 +1,6 @@
 # Sensitivity of structural-variant novelty fractions to matching rules
 
-Korean K-PanRef structural variants against the HPRC Release 2 CHM13 pangenome reference. Submitted to PeerJ.
+Korean Pangenome Reference structural variants against the Human Pangenome Reference Consortium Release 2. Under review at PeerJ.
 
 Code, input data, results and figures are in the Zenodo package: https://doi.org/10.5281/zenodo.24099989
 
